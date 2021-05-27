@@ -1,0 +1,9 @@
+{
+    "type": "project",
+    "name": "elvi/placeholder",
+    "description": "Elvi Placeholder",
+    "license": "proprietary",
+    "require": {
+        "php": "^7.3 || ^8.0"
+    }
+}
